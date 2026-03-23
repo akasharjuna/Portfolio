@@ -1,4 +1,4 @@
-**Portfolio**
+## Portfolio
 
 A modern, dynamic, and professional personal portfolio website designed for an IT student with skills in Software Development and Cybersecurity. 
 ## 🌟 Key Features
