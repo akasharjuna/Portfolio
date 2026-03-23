@@ -1,10 +1,8 @@
-# Modern Antigravity Portfolio
+Portfolio
 
-A modern, dynamic, and professional personal portfolio website designed for an IT student with skills in Software Development and Cybersecurity. This portfolio features a highly polished **Antigravity** aesthetic with glassmorphism, interactive particles, and deep space glows.
-
+A modern, dynamic, and professional personal portfolio website designed for an IT student with skills in Software Development and Cybersecurity. 
 ## 🌟 Key Features
-- **Antigravity UI & Glassmorphism:** Sleek frosted glass components (`.glass`) that float seamlessly over a dark, glowing background.
-- **Interactive Snowflakes:** A continuous, reactive snowfall effect built with `tsparticles` that smoothly repulses away from your cursor.
+
 - **Cinematic Glows:** Slowly pulsing aurora/deep space background gradients.
 - **Dynamic Projects:** GitHub API integration ready, with categorical filtering and modal popups.
 - **Fully Responsive:** Tailored for mobile, tablet, and desktop views.
